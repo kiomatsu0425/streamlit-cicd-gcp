@@ -1,0 +1,10 @@
+[project]
+name = "streamlit-cicd-gcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyrebase4>=4.8.0",
+    "streamlit>=1.44.0",
+]
